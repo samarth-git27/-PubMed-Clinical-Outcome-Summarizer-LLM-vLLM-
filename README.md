@@ -72,4 +72,4 @@ pubmed-llm-pipeline/
 ├── README.md              # Documentation
 
 Samarth J Bharadwaj
-Final Year Engineering Student | Software Development | AI/ML
+Graduate Engineer Student | Software Development | AI/ML
